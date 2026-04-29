@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 28/04/2026
-Empresa: Abstergo Industries 
-Responsável: Guilherme
+- Data: 28/04/2026
+- Empresa: Abstergo Industries 
+- Responsável: Guilherme
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Guilherme. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
